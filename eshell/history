@@ -1,0 +1,4 @@
+ls
+grep
+echo sss|grep sss
+python
